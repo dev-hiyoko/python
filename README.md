@@ -1,8 +1,13 @@
-# PlayGround
+# Python PlayGround
+- このリポジトリは、ひよこの遊び場です。
 
-[//]: # (言語バージョンの管理方法について)
+## 初期設定
 
-jupyter 起動コマンド
 ```shell
-jupyter notebook
+make init
 ```
+
+## doc
+- [requirements](./docs/python/requirements.md)
+- [poetry](./docs/python/poetry.md)
+- [juptyer](./docs/python/jupyter.md)

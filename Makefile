@@ -1,5 +1,6 @@
 .PHONY: init
 init: git/commit-template
+	pip install -r requirements.txt
 
 # git
 .PHONY: git/commit-template
