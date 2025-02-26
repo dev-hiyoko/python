@@ -8,7 +8,7 @@ make init
 ```
 
 ## doc
-- [命名法](./docs/python/naming.md)
-- [requirements](./docs/python/requirements.md)
-- [poetry](./docs/python/poetry.md)
-- [juptyer](./docs/python/jupyter.md)
+- [命名法](./docs/markdown/python/naming.md)
+- [requirements](./docs/markdown/python/requirements.md)
+- [poetry](./docs/markdown/python/poetry.md)
+- [juptyer](./docs/markdown/python/jupyter.md)
